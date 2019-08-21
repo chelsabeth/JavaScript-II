@@ -92,7 +92,7 @@ const checkItems = (item, list) => {
   return list.includes(item);
 };
   
-console.log(contains )
+console.log(contains('Pencil', items, checkItems));
 
 /* STRETCH PROBLEM */
 
